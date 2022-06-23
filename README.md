@@ -1,5 +1,4 @@
 # Data-Science
-# It contains the list of analytical use cases
 Applied following Analytical Techniques...
 1. Advance Statistics ANOVA & PCA.
 2. Exploratory Data Analysis.
