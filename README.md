@@ -7,3 +7,4 @@ Applied following Analytical Techniques...
 5. Time Series Forecasting.
 6. RFM Technique & Market Basket Analysis on Marketing & Retail Analytics.
 7. Financial & Risk Analytics.
+![istockphoto-1319030437-170667a](https://user-images.githubusercontent.com/80462539/175233325-b23890c9-462a-4794-817e-b16b778e41df.jpg)
